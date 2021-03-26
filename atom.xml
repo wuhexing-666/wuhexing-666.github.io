@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wuhexing`s Blog</title>
+  
+  <subtitle>吴贺兴</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wuhexing-666.github.io/"/>
+  <updated>2020-03-28T07:16:27.481Z</updated>
+  <id>https://wuhexing-666.github.io/</id>
+  
+  <author>
+    <name>吴贺兴</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>VMware 安装 CentOS 8.1 完整教程 </title>
+    <link href="https://wuhexing-666.github.io/2020/03/05/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng/"/>
+    <id>https://wuhexing-666.github.io/2020/03/05/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng/</id>
+    <published>2020-03-05T10:29:16.000Z</published>
+    <updated>2020-03-28T07:16:27.481Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;我使用的&lt;font color=&quot;red&quot; size=&quot;3&quot;&gt;VMware&lt;/font&gt;版本：&lt;font color=&quot;red&quot; size=&quot;3&quot;&gt;VMware 15 Pro&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;镜像：&lt;font color=&quot;red&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://wuhexing-666.github.io/categories/Linux/"/>
+    
+    
+      <category term="VMware" scheme="https://wuhexing-666.github.io/tags/VMware/"/>
+    
+      <category term="CentOS" scheme="https://wuhexing-666.github.io/tags/CentOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github + Hexo 搭建个人博客超详细教程</title>
+    <link href="https://wuhexing-666.github.io/2020/02/18/1/"/>
+    <id>https://wuhexing-666.github.io/2020/02/18/1/</id>
+    <published>2020-02-18T13:17:35.000Z</published>
+    <updated>2020-04-07T11:16:38.646Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://muyiio-1300292673.cos.ap-chongqing.myqcloud.com/%E5%8D%9A%E5%AE%A2/_posts/1/01.png&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&quot;magenta&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Blog" scheme="https://wuhexing-666.github.io/categories/Blog/"/>
+    
+    
+      <category term="Github" scheme="https://wuhexing-666.github.io/tags/Github/"/>
+    
+      <category term="Hexo" scheme="https://wuhexing-666.github.io/tags/Hexo/"/>
+    
+      <category term="博客搭建" scheme="https://wuhexing-666.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019总结及2020规划</title>
+    <link href="https://wuhexing-666.github.io/2020/01/17/2019-zong-jie-ji-2020-gui-hua/"/>
+    <id>https://wuhexing-666.github.io/2020/01/17/2019-zong-jie-ji-2020-gui-hua/</id>
+    <published>2020-01-16T16:17:54.000Z</published>
+    <updated>2020-03-28T06:47:11.232Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;530&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://wuhexing-666.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://wuhexing-666.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
