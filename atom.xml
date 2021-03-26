@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wuhexing-666.github.io/"/>
-  <updated>2020-03-28T07:16:27.481Z</updated>
+  <updated>2021-03-26T13:02:39.994Z</updated>
   <id>https://wuhexing-666.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>VMware 安装 CentOS 8.1 完整教程 </title>
-    <link href="https://wuhexing-666.github.io/2020/03/05/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng/"/>
-    <id>https://wuhexing-666.github.io/2020/03/05/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng/</id>
-    <published>2020-03-05T10:29:16.000Z</published>
-    <updated>2020-03-28T07:16:27.481Z</updated>
+    <title>Hexo网站添加鼠标点击爱心效果</title>
+    <link href="https://wuhexing-666.github.io/2021/03/21/hexo-wang-zhan-tian-jia-shu-biao-dian-ji-ai-xin-xiao-guo/"/>
+    <id>https://wuhexing-666.github.io/2021/03/21/hexo-wang-zhan-tian-jia-shu-biao-dian-ji-ai-xin-xiao-guo/</id>
+    <published>2021-03-21T12:59:01.000Z</published>
+    <updated>2021-03-26T13:02:39.994Z</updated>
     
     <summary type="html">
     
@@ -29,28 +29,27 @@
       
         
         
-          &lt;p&gt;我使用的&lt;font color=&quot;red&quot; size=&quot;3&quot;&gt;VMware&lt;/font&gt;版本：&lt;font color=&quot;red&quot; size=&quot;3&quot;&gt;VMware 15 Pro&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;镜像：&lt;font color=&quot;red&quot;
+          &lt;h1 id=&quot;】添加鼠标点击爱心效果&quot;&gt;&lt;a href=&quot;#】添加鼠标点击爱心效果&quot; class=&quot;headerlink&quot; title=&quot;】添加鼠标点击爱心效果&quot;&gt;&lt;/a&gt;】添加鼠标点击爱心效果&lt;/h1&gt;&lt;p&gt;1.在&lt;font color=&quot;red&quot; size=&quot;3&quot;&gt;
         
       
     
     </summary>
     
-      <category term="Linux" scheme="https://wuhexing-666.github.io/categories/Linux/"/>
+      <category term="平面设计" scheme="https://wuhexing-666.github.io/categories/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
     
-      <category term="VMware" scheme="https://wuhexing-666.github.io/tags/VMware/"/>
+      <category term="平面设计" scheme="https://wuhexing-666.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="CentOS" scheme="https://wuhexing-666.github.io/tags/CentOS/"/>
+      <category term="cicklove" scheme="https://wuhexing-666.github.io/tags/cicklove/"/>
     
   </entry>
   
   <entry>
-    <title>Github + Hexo 搭建个人博客超详细教程</title>
-    <link href="https://wuhexing-666.github.io/2020/02/18/1/"/>
-    <id>https://wuhexing-666.github.io/2020/02/18/1/</id>
-    <published>2020-02-18T13:17:35.000Z</published>
-    <updated>2020-04-07T11:16:38.646Z</updated>
+    <title>Hexo网站添加鼠标点击出现核心价值观</title>
+    <link href="https://wuhexing-666.github.io/2021/03/16/hexo-wang-zhan-tian-jia-shu-biao-dian-ji-chu-xian-he-xin-jie-zhi-guan/"/>
+    <id>https://wuhexing-666.github.io/2021/03/16/hexo-wang-zhan-tian-jia-shu-biao-dian-ji-chu-xian-he-xin-jie-zhi-guan/</id>
+    <published>2021-03-16T12:00:14.000Z</published>
+    <updated>2021-03-26T13:01:40.585Z</updated>
     
     <summary type="html">
     
@@ -58,30 +57,27 @@
       
         
         
-          &lt;p&gt;&lt;img src=&quot;https://muyiio-1300292673.cos.ap-chongqing.myqcloud.com/%E5%8D%9A%E5%AE%A2/_posts/1/01.png&quot; alt&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font color=&quot;magenta&quot;
+          &lt;h1 id=&quot;】添加鼠标点击显示核心价值观&quot;&gt;&lt;a href=&quot;#】添加鼠标点击显示核心价值观&quot; class=&quot;headerlink&quot; title=&quot;】添加鼠标点击显示核心价值观&quot;&gt;&lt;/a&gt;】添加鼠标点击显示核心价值观&lt;/h1&gt;&lt;p&gt;1.在 &lt;font color=&quot;red&quot;
         
       
     
     </summary>
     
-      <category term="Blog" scheme="https://wuhexing-666.github.io/categories/Blog/"/>
+      <category term="平面设计" scheme="https://wuhexing-666.github.io/categories/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
     
-      <category term="Github" scheme="https://wuhexing-666.github.io/tags/Github/"/>
+      <category term="美化" scheme="https://wuhexing-666.github.io/tags/%E7%BE%8E%E5%8C%96/"/>
     
-      <category term="Hexo" scheme="https://wuhexing-666.github.io/tags/Hexo/"/>
-    
-      <category term="博客搭建" scheme="https://wuhexing-666.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <category term="文字" scheme="https://wuhexing-666.github.io/tags/%E6%96%87%E5%AD%97/"/>
     
   </entry>
   
   <entry>
-    <title>2019总结及2020规划</title>
-    <link href="https://wuhexing-666.github.io/2020/01/17/2019-zong-jie-ji-2020-gui-hua/"/>
-    <id>https://wuhexing-666.github.io/2020/01/17/2019-zong-jie-ji-2020-gui-hua/</id>
-    <published>2020-01-16T16:17:54.000Z</published>
-    <updated>2020-03-28T06:47:11.232Z</updated>
+    <title>Hexo网站实现雪花飘落效果</title>
+    <link href="https://wuhexing-666.github.io/2021/03/11/hexo-wang-zhan-shi-xian-xue-hua-piao-luo-xiao-guo/"/>
+    <id>https://wuhexing-666.github.io/2021/03/11/hexo-wang-zhan-shi-xian-xue-hua-piao-luo-xiao-guo/</id>
+    <published>2021-03-10T16:58:18.000Z</published>
+    <updated>2021-03-26T13:04:14.221Z</updated>
     
     <summary type="html">
     
@@ -89,16 +85,162 @@
       
         
         
-          &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;530&quot; height=&quot;86&quot;
+          &lt;h1 id=&quot;】添加雪花飘落效果&quot;&gt;&lt;a href=&quot;#】添加雪花飘落效果&quot; class=&quot;headerlink&quot; title=&quot;】添加雪花飘落效果&quot;&gt;&lt;/a&gt;】添加雪花飘落效果&lt;/h1&gt;&lt;p&gt;效果预览：&lt;/p&gt;
+&lt;p&gt;&lt;img
         
       
     
     </summary>
     
-      <category term="随笔" scheme="https://wuhexing-666.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="平面设计师" scheme="https://wuhexing-666.github.io/categories/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%B8%88/"/>
+    
+    
+      <category term="平面设计" scheme="https://wuhexing-666.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="snow" scheme="https://wuhexing-666.github.io/tags/snow/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo网站实现文章分类</title>
+    <link href="https://wuhexing-666.github.io/2021/03/05/hexo-wang-zhan-shi-xian-wen-zhang-fen-lei/"/>
+    <id>https://wuhexing-666.github.io/2021/03/05/hexo-wang-zhan-shi-xian-wen-zhang-fen-lei/</id>
+    <published>2021-03-05T07:39:45.000Z</published>
+    <updated>2021-03-26T12:56:42.552Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;新建分类-categories-页&quot;&gt;&lt;a href=&quot;#新建分类-categories-页&quot; class=&quot;headerlink&quot; title=&quot;新建分类 categories 页&quot;&gt;&lt;/a&gt;新建分类 categories
+        
+      
+    
+    </summary>
+    
+      <category term="网站设计" scheme="https://wuhexing-666.github.io/categories/%E7%BD%91%E7%AB%99%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="网站设计" scheme="https://wuhexing-666.github.io/tags/%E7%BD%91%E7%AB%99%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="分类" scheme="https://wuhexing-666.github.io/tags/%E5%88%86%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo网站导航栏实现二级标题</title>
+    <link href="https://wuhexing-666.github.io/2021/03/03/hexo-wang-zhan-dao-hang-lan-shi-xian-er-ji-biao-ti/"/>
+    <id>https://wuhexing-666.github.io/2021/03/03/hexo-wang-zhan-dao-hang-lan-shi-xian-er-ji-biao-ti/</id>
+    <published>2021-03-03T02:40:39.000Z</published>
+    <updated>2021-03-26T12:57:19.410Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;菜单导航配置&quot;&gt;&lt;a href=&quot;#菜单导航配置&quot; class=&quot;headerlink&quot; title=&quot;菜单导航配置&quot;&gt;&lt;/a&gt;菜单导航配置&lt;/h3&gt;&lt;h4 id=&quot;配置基本菜单导航的名称、路径url和图标icon&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网站设计" scheme="https://wuhexing-666.github.io/categories/%E7%BD%91%E7%AB%99%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="网站设计" scheme="https://wuhexing-666.github.io/tags/%E7%BD%91%E7%AB%99%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="tags" scheme="https://wuhexing-666.github.io/tags/tags/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo网站实现代码一键复制识别格式化</title>
+    <link href="https://wuhexing-666.github.io/2021/03/01/hexo-wang-zhan-shi-xian-dai-ma-yi-jian-fu-zhi-shi-bie/"/>
+    <id>https://wuhexing-666.github.io/2021/03/01/hexo-wang-zhan-shi-xian-dai-ma-yi-jian-fu-zhi-shi-bie/</id>
+    <published>2021-03-01T04:42:06.000Z</published>
+    <updated>2021-03-26T12:53:34.876Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1】预览&quot;&gt;&lt;a href=&quot;#1】预览&quot; class=&quot;headerlink&quot; title=&quot;1】预览&quot;&gt;&lt;/a&gt;1】预览&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;直接看效果：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="网站设计" scheme="https://wuhexing-666.github.io/categories/%E7%BD%91%E7%AB%99%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="codelight" scheme="https://wuhexing-666.github.io/tags/codelight/"/>
+    
+      <category term="网站设计" scheme="https://wuhexing-666.github.io/tags/%E7%BD%91%E7%AB%99%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021就到了，还是希望自己努力一点</title>
+    <link href="https://wuhexing-666.github.io/2021/02/26/2021-jiu-dao-liao-huan-shi-xi-wang-zi-ji-nu-li-yi-dian/"/>
+    <id>https://wuhexing-666.github.io/2021/02/26/2021-jiu-dao-liao-huan-shi-xi-wang-zi-ji-nu-li-yi-dian/</id>
+    <published>2021-02-26T12:45:04.000Z</published>
+    <updated>2021-03-26T12:46:45.266Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;我嘛，一直是一个普普通通的人，渴求着机遇，但总是原地踏步着，在等待中企盼着不劳而获。&lt;br&gt;从小别人就说我念书是吃老本，现如今自己也发现自己已经陷入囹圄。&lt;br&gt;现今啊&lt;br&gt;陌生的环境、专业、人亟待着我去熟悉，也许我会瑟缩着放弃吧，又或者我会在犹豫着放弃中慢慢过渡到成熟。
+        
+      
+    
+    </summary>
+    
+      <category term="关于我" scheme="https://wuhexing-666.github.io/categories/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
     
     
       <category term="随笔" scheme="https://wuhexing-666.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="自我总结" scheme="https://wuhexing-666.github.io/tags/%E8%87%AA%E6%88%91%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo网站添加二次元动漫人物</title>
+    <link href="https://wuhexing-666.github.io/2021/02/26/hexo-wang-zhan-tian-jia-er-ci-yuan-dong-man-ren-wu/"/>
+    <id>https://wuhexing-666.github.io/2021/02/26/hexo-wang-zhan-tian-jia-er-ci-yuan-dong-man-ren-wu/</id>
+    <published>2021-02-26T12:43:12.000Z</published>
+    <updated>2021-03-26T12:49:46.266Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;效果预览：&quot;&gt;&lt;a href=&quot;#效果预览：&quot; class=&quot;headerlink&quot; title=&quot;效果预览：&quot;&gt;&lt;/a&gt;效果预览：&lt;/h2&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="平面设计" scheme="https://wuhexing-666.github.io/categories/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="平面设计" scheme="https://wuhexing-666.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="二次元" scheme="https://wuhexing-666.github.io/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
     
   </entry>
   
